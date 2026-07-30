@@ -1,1 +1,2 @@
 price_panel.parquet filter=lfs diff=lfs merge=lfs -text
+nasdaq_news_sp38.csv filter=lfs diff=lfs merge=lfs -text
